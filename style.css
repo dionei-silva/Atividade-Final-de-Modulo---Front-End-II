@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-img{
+    width: 50px;
+    height: 50px;
+}
+
+.header{
+
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+h1{
+    color: #105718;
+    margin-bottom: 20px;
+    font-size: 80px;
+    
+}
+
+.input-search{
+    margin-bottom: 10px;
+    background-image: url('./lupa.png');
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 10px) center;
+    padding-right: 30px; 
+    width: 800px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(71, 71, 71);
+}
+.section-main{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+button{
+    background-color: #105718;
+    border: 1px solid #105718;
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.div-card{
+    margin: 50px;
+    display: flex;
+    height: 300px;
+    width: 600px;
+}
+.div-info{
+    margin: 10px;
+}
+.titulo-card{
+    color: #105718;
+    margin-bottom: 0;
+}
+.info-character{
+    margin-top: 0;
+}
+.last-loc{
+    margin-top: 20px;
+}
+.planet{
+    margin-top: 0;
+}
+.last-see{
+    margin-top: 20px;
+}
+.chapter-name{
+    margin-top: 0;
+}
+.figure-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.span {
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 100px;
+    color: white;
+}
+
+hr{
+    border-style: solid;
+    border-color: #62EC52;
+    width: 989px;
+    margin-left: 0%;
+}
+
+.info-serie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 250px;
+    background-color: #1F2821;
+}
+footer{
+    padding-bottom: 10px;
+    font-size: 25px;
+    text-align: center;
+    background-color: #1F2821;
+    color:#7C7C7C;
+}
+.footer-name{
+    color: white;
+}
+
