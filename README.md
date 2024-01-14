@@ -11,9 +11,13 @@ Projeto Final do curso da GROWDEV do modulos Front End II
 
 ## Tecnologias Utilizadas
 
-- Javascript 
+- Javascript
 
-## Propostas
+## Pages
+
+https://dionei-silva.github.io/Atividade-Final-de-Modulo---Front-End-II/
+
+## Desafios Propostos
 
 - Criar uma aplicação Web para a listagem dos personagens da série Rick and Morty.
 - 1 página HTML para listar os personagens.
